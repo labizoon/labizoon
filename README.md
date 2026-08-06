@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Laiba Mirza 👋 
 
-<!--
-**labizoon/labizoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student with a strong interest in SQL, Database Design, Python, and Data Analysis. I enjoy building practical database projects, solving problems with SQL, and continuously improving my technical skills through hands-on learning.
+Currently, I'm focused on database management systems, SQL practice, and data analysis while expanding my knowledge of ETL concepts and business intelligence tools.
 
-Here are some ideas to get you started:
+## 💻 Technologies
+* SQL
+* MySQL
+* Python
+* MS Excel
+* Git & GitHub
+* Database Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+* Advanced SQL
+* Data Analysis
+* Database Projects
+* ETL Concepts
+* Power BI
+
+## 📌 Featured Projects
+* SQL Practice Repository
+* Database Projects
+
+## 📫 Connect with Me
+* Email: labimirza465@gmail.com 
