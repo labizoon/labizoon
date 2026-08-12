@@ -24,9 +24,3 @@ Currently, I'm focused on database management systems, SQL practice, and data an
 
 ## 📫 Connect with Me
 * Email: labimirza465@gmail.com 
-
-
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/labizoon/labizoon/output/github-contribution-grid-snake.svg)
