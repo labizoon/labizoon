@@ -35,3 +35,8 @@ Currently, I'm focused on database management systems, SQL practice, and data an
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+## My GitHub Contributions
+
+![GitHub Snake](https://raw.githubusercontent.com/labizoon/labizoon/gh-pages/github-snake.svg)
